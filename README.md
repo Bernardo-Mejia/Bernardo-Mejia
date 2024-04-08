@@ -15,7 +15,6 @@
             height="48"
             alt="HTML5"
           />
-          <br />HTML5
         </a>
       </td>
       <td align="center" width="96">
@@ -30,7 +29,6 @@
             height="48"
             alt="css"
           />
-          <br />CSS
         </a>
       </td>
       <td align="center" width="96">
@@ -45,7 +43,6 @@
             height="48"
             alt="Sass"
           />
-          <br />Sass
         </a>
       </td>
       <td align="center" width="96">
@@ -60,7 +57,6 @@
             width="65"
             height="65"
           />
-          <br />JavaScript
         </a>
       </td>
       <td align="center" width="96">
@@ -75,7 +71,6 @@
             height="48"
             alt="bootstrap"
           />
-          <br />Bootstrap
         </a>
       </td>
       <td align="center" width="96">
@@ -90,7 +85,6 @@
             width="65"
             height="65"
           />
-          <br />TypeScript
         </a>
       </td>
       <td align="center" width="96">
@@ -105,7 +99,6 @@
             height="48"
             alt="Nodejs"
           />
-          <br />Nodejs
         </a>
       </td>
       <td align="center" width="96">
@@ -120,7 +113,6 @@
             height="48"
             alt="express"
           />
-          <br />Express
         </a>
       </td>
       <td align="center" width="96">
@@ -135,7 +127,6 @@
             height="48"
             alt="Angular"
           />
-          <br />Angular
         </a>
       </td>
       <td align="center" width="96">
@@ -150,7 +141,6 @@
               width="65"
               height="65"
             />
-          <br />Python
         </a>
       </td>
     </tr>
@@ -167,7 +157,6 @@
             width="65"
             height="65"
           />
-          <br />Django
         </a>
       </td>
       <td align="center" width="96">
@@ -182,7 +171,6 @@
             width="65"
             height="65"
           />
-          <br />C#
         </a>
       </td>
       <td align="center" width="96">
@@ -197,7 +185,6 @@
             width="65"
             height="65"
           />
-          <br />.NET
         </a>
       </td>
       <td align="center" width="96">
@@ -212,7 +199,6 @@
             height="48"
             alt="MongoDB"
           />
-          <br />MongoDB
         </a>
       </td>
       <td align="center" width="96">
@@ -227,7 +213,6 @@
             width="65"
             height="65"
           />
-          <br />MySQL
         </a>
       </td>
       <td align="center" width="96">
@@ -242,7 +227,6 @@
             height="48"
             alt="PostgreSQL"
           />
-          <br />PostgreSQL
         </a>
       </td>
       <td align="center" width="96">
@@ -257,7 +241,6 @@
             height="48"
             alt="GraphQL"
           />
-          <br />GraphQL
         </a>
       </td>
       <td align="center" width="96">
@@ -272,7 +255,6 @@
             height="48"
             alt="Git"
           />
-          <br />Git
         </a>
       </td>
       <td align="center" width="96">
@@ -287,7 +269,6 @@
             width="65"
             height="65"
           />
-          <br />Github
         </a>
       </td>
       <td align="center" width="96">
@@ -302,7 +283,6 @@
             width="65"
             height="65"
           />
-          <br />Postman
         </a>
       </td>
     </tr>
