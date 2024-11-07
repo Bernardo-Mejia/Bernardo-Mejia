@@ -273,12 +273,12 @@
       </td>
       <td align="center" width="96">
         <a
-          href="https://www.postman.com"
+          href="https://www.docker.com"
           target="_blank"
           style="text-decoration: none; color: rgb(157, 157, 157)"
         >
           <img
-            src="https://skillicons.dev/icons?i=postman"
+            src="https://skillicons.dev/icons?i=docker"
             alt="postman"
             width="65"
             height="65"
